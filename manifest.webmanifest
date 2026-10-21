@@ -1,0 +1,17 @@
+{
+  "name": "Bocconcino",
+  "short_name": "Bocconcino",
+  "description": "Diario alimentare: fotografa il pasto e scopri calorie e nutrienti.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFEFF4",
+  "theme_color": "#FFEFF4",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
